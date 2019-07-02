@@ -59,7 +59,7 @@ public class GameController : MonoBehaviour {
         }
     }
 
-    [SerializeField] private CameraFitting camera;
+    [SerializeField] private CameraFitting camera; //Camera
     [SerializeField] private Transform[] objectNodes;
     [SerializeField] private BreakableController[] Objective;
     [SerializeField] GameObject scoreUI;
