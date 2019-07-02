@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 00a8e109a38d10a4faedf161c8a53b5d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Back_Leg_Left_Raccoon
+    100002: Back_Leg_Left_Raccoon1
+    100004: Body_Raccoon
+    100006: Front_Leg_Left_Raccoon
+    100008: Front_Leg_Right_Raccoon
+    100010: //RootNode
+    100012: tail01_Raccoon
+    100014: tail02_Raccoon
+    100016: tail03_Raccoon
+    400000: Back_Leg_Left_Raccoon
+    400002: Back_Leg_Left_Raccoon1
+    400004: Body_Raccoon
+    400006: Front_Leg_Left_Raccoon
+    400008: Front_Leg_Right_Raccoon
+    400010: //RootNode
+    400012: tail01_Raccoon
+    400014: tail02_Raccoon
+    400016: tail03_Raccoon
+    2100000: black
+    2100002: white
+    2100004: lambert1
+    2100006: greygrey
+    2100008: grey
+    2300000: Back_Leg_Left_Raccoon
+    2300002: Back_Leg_Left_Raccoon1
+    2300004: Body_Raccoon
+    2300006: Front_Leg_Left_Raccoon
+    2300008: Front_Leg_Right_Raccoon
+    2300010: tail01_Raccoon
+    2300012: tail02_Raccoon
+    2300014: tail03_Raccoon
+    3300000: Back_Leg_Left_Raccoon
+    3300002: Back_Leg_Left_Raccoon1
+    3300004: Body_Raccoon
+    3300006: Front_Leg_Left_Raccoon
+    3300008: Front_Leg_Right_Raccoon
+    3300010: tail01_Raccoon
+    3300012: tail02_Raccoon
+    3300014: tail03_Raccoon
+    4300000: Body_Raccoon
+    4300002: Front_Leg_Left_Raccoon
+    4300004: Front_Leg_Right_Raccoon
+    4300006: Back_Leg_Left_Raccoon
+    4300008: tail01_Raccoon
+    4300010: tail02_Raccoon
+    4300012: tail03_Raccoon
+    4300014: Back_Leg_Left_Raccoon1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: ab4745812f80f3c46aef5fc9176a2b7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey
+    second: {fileID: 2100000, guid: fc6b92099f4f30d4e814cdef197a45f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: greygrey
+    second: {fileID: 2100000, guid: 018aa371726576841a0bdb12793a7b2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: f08cb2baf9ca790419e396d55c0cae13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: 9acdedc627c52884d8e233d41d04ff27, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.3
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

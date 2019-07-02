@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 22129bc1a5e04234cbca905d0746227e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: pCube29
+    100002: pCube31
+    100004: pCube33
+    100006: pCube37
+    100008: pCube38
+    100010: pCube39
+    100012: pCylinder18
+    100014: pCylinder19
+    100016: pCylinder20
+    100018: pCylinder21
+    100020: //RootNode
+    100022: Sofa_Broke
+    400000: pCube29
+    400002: pCube31
+    400004: pCube33
+    400006: pCube37
+    400008: pCube38
+    400010: pCube39
+    400012: pCylinder18
+    400014: pCylinder19
+    400016: pCylinder20
+    400018: pCylinder21
+    400020: Sofa_Broke
+    400022: //RootNode
+    2100000: room_Pilow
+    2100002: room_wood
+    2100004: room_lambert2
+    2100006: room_blinn3
+    2100008: room_Plastic
+    2300000: pCube29
+    2300002: pCube31
+    2300004: pCube33
+    2300006: pCube37
+    2300008: pCube38
+    2300010: pCube39
+    2300012: pCylinder18
+    2300014: pCylinder19
+    2300016: pCylinder20
+    2300018: pCylinder21
+    3300000: pCube29
+    3300002: pCube31
+    3300004: pCube33
+    3300006: pCube37
+    3300008: pCube38
+    3300010: pCube39
+    3300012: pCylinder18
+    3300014: pCylinder19
+    3300016: pCylinder20
+    3300018: pCylinder21
+    4300000: pCube37
+    4300002: pCube33
+    4300004: pCube39
+    4300006: pCube31
+    4300008: pCube29
+    4300010: pCylinder18
+    4300012: pCylinder19
+    4300014: pCylinder21
+    4300016: pCylinder20
+    4300018: pCube38
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: room_Pilow
+    second: {fileID: 2100000, guid: 6326257103e5cb2448d63bb45f98be88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: room_Plastic
+    second: {fileID: 2100000, guid: cd5f4328e1bb4774d923565b74c91bb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: room_blinn3
+    second: {fileID: 2100000, guid: cc4b63156db01ab4ea0be6551af35fee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: room_lambert2
+    second: {fileID: 2100000, guid: 352b17e0d4e9f2547a25fba803d2e498, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: room_wood
+    second: {fileID: 2100000, guid: b032db5727f46a9439a3461769082e89, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pilow
+    second: {fileID: 2800000, guid: 784b4a0b48554774bb286ca453b1918c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Untitled-4
+    second: {fileID: 2800000, guid: d962cd9a1d7facc44a794dc9ab7a1d79, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.3
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

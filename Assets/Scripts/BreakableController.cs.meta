@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e7039ea91c8cdcc40aa88a4c279ac143
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - repairIcon: {fileID: 21300000, guid: 19ca0b5ad0cac44409768e1d6768fc9d, type: 3}
+  - breakIcon: {fileID: 21300002, guid: 8b9fc4f24c31d7445be080e5cbd23e16, type: 3}
+  - destructForm: {instanceID: 0}
+  - resructForm: {instanceID: 0}
+  - breakedAudio: {instanceID: 0}
+  - repairedAudio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
